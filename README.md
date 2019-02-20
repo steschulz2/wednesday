@@ -1,0 +1,2 @@
+# wednesday
+My first repository
