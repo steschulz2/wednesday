@@ -1,2 +1,2 @@
-# wednesday
+# wednesday is fun
 My first repository
